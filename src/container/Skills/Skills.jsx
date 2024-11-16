@@ -26,7 +26,7 @@ const Skills = () => {
       ]
     },
     {
-      year: 'DEC 2021 - DEC 2022',
+      year: 'JUNE 2021 - DEC 2022',
       works: [
         {
           name: 'FRONTEND DEVELOPER',
@@ -34,15 +34,6 @@ const Skills = () => {
         }
       ]
     },
-    {
-      year: 'JUN 2021 - DEC 2021',
-      works: [
-        {
-          name: 'FRONTEND DEVELOPER INTERN',
-          company: 'Seamfix'
-        }
-      ]
-    }
   ];
 
   const skills = [

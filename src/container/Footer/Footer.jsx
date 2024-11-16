@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { images } from '../../constants';
 import { AppWrap, MotionWrap } from '../../wrapper';
 import { client } from '../../client';
-import resume from '../../assets/resume.pdf'
+import resume from '../../assets/Resume-Samuel-Olofintoye.pdf'
 import './Footer.scss';
 
 const Footer = () => {
